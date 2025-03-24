@@ -237,4 +237,4 @@ CameraInspect wykorzystuje szereg zaawansowanych technologii, aby zapewnić wyso
 
 ---
 
-[Powrót do głównej dokumentacji](../README.md)
+[Powrót do głównej dokumentacji](README.md)

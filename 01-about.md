@@ -110,4 +110,4 @@ Naszą misją jest rewolucjonizowanie sposobu, w jaki organizacje wdrażają i z
 
 ---
 
-[Powrót do głównej dokumentacji](../README.md)
+[Powrót do głównej dokumentacji](README.md)

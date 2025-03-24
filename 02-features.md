@@ -129,4 +129,4 @@ Funkcja umożliwia zarządzanie rozproszonymi systemami monitoringu z jednego ce
 
 ---
 
-[Powrót do głównej dokumentacji](../README.md)
+[Powrót do głównej dokumentacji](README.md)

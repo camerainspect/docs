@@ -12,22 +12,22 @@ CameraInspect to kompleksowe rozwiązanie do automatycznej diagnostyki, konfigur
 
 ### Spis dokumentacji
 
-- [O projekcie](docs/01-about.md) - Przeznaczenie i filozofia CameraInspect
-- [Funkcjonalności](docs/02-features.md) - Szczegółowy opis kluczowych funkcji
-- [Dla kogo](docs/03-use-cases.md) - Branże i role użytkowników
-- [Jak to działa](docs/04-how-it-works.md) - Proces wdrożenia i działania
-- [Case Studies](docs/05-case-studies.md) - Przykłady wdrożeń
-- [Architektura](docs/06-architecture.md) - Opis architektury systemu
-- [Technologie](docs/07-technologies.md) - Wykorzystane technologie
-- [UI/UX](docs/08-interface.md) - Interfejs użytkownika
-- [Wdrożenie](docs/09-deployment.md) - Instalacja i proces wdrożenia
-- [API](docs/10-api.md) - Dokumentacja API
-- [Bezpieczeństwo](docs/11-security.md) - Zabezpieczenia i zgodność
-- [Roadmapa](docs/12-roadmap.md) - Plan rozwoju
-- [Wsparcie](docs/13-support.md) - Wsparcie techniczne
-- [FAQ](docs/14-faq.md) - Często zadawane pytania
-- [Cennik](docs/15-pricing.md) - Modele cenowe
-- [Kontakt](docs/16-contact.md) - Dane kontaktowe
+- [O projekcie](01-about.md) - Przeznaczenie i filozofia CameraInspect
+- [Funkcjonalności](02-features.md) - Szczegółowy opis kluczowych funkcji
+- [Dla kogo](03-use-cases.md) - Branże i role użytkowników
+- [Jak to działa](04-how-it-works.md) - Proces wdrożenia i działania
+- [Case Studies](05-case-studies.md) - Przykłady wdrożeń
+- [Architektura](06-architecture.md) - Opis architektury systemu
+- [Technologie](07-technologies.md) - Wykorzystane technologie
+- [UI/UX](08-interface.md) - Interfejs użytkownika
+- [Wdrożenie](09-deployment.md) - Instalacja i proces wdrożenia
+- [API](10-api.md) - Dokumentacja API
+- [Bezpieczeństwo](11-security.md) - Zabezpieczenia i zgodność
+- [Roadmapa](12-roadmap.md) - Plan rozwoju
+- [Wsparcie](13-support.md) - Wsparcie techniczne
+- [FAQ](14-faq.md) - Często zadawane pytania
+- [Cennik](15-pricing.md) - Modele cenowe
+- [Kontakt](16-contact.md) - Dane kontaktowe
 
 ### Instalacja i wdrożenie
 
